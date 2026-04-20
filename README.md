@@ -17,3 +17,7 @@ python pyqt_profiling_tool.py
 ```
 
 Default case directory is current working directory.
+
+## Docs
+
+- Development design and algorithm principles: `DEVELOPMENT.md`
